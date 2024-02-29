@@ -7,7 +7,7 @@ Lookit is an open-source project, meaning that the code is freely available and 
 In this section, you'll make your first "Pull request" (PR) to propose a change to the documentation [#]_. Your change will just be to add yourself to a list of tutorial participants. This way, you'll be comfortable making substantive changes whenever you're ready!
 
 Later on in the tutorial, if you come across something confusing or you have an idea to improve the instructions or exercises, you can follow these same instructions to fix it. Although we recognize that most Lookit users will not be ready to contribute to the code that makes Lookit run, editing the documentation is something everyone can do! We need your help to keep it up-to-date and constantly improving!
-
+d
 .. _First PR: 
 
 Making your first pull request (PR)
@@ -315,6 +315,7 @@ List of tutorial participants
 - Brian Leonard (MIT)
 - Shine Seon (Northwestern University)
 - Hannah Kramer (University of Wisconsin)
+- Nalinda Wanikpun (NYU)
 
 
 Checking for and creating issues on Github
